@@ -1,0 +1,317 @@
+
+
+
+body { background-image: url(background.jpg) ;
+background-color: #ffefff
+ ;color:#fffff ; 
+font-family: Verdana, Arial, sans-serif ;
+ }
+
+header {  
+color: #fffff ; 
+text-align: center; }
+
+main {
+text-align: left ;}
+
+h1 { line-height: 200% ; }
+
+
+
+h3 { background-color: #2e2d8b ; color: #fff400 ;
+font-size: 1.2em ; padding-left: 10px ;
+padding-right: 5px ;
+text-align: left ; 
+width: 20% ;
+margin-left: 0 ;
+margin-right: auto;
+ }
+
+
+h5 { background-color: #2e2d8b ; color: #fff400 ;
+font-size: .90em ; padding-left: 10px ;
+padding-right: 5px ;
+text-align: left ;
+width: 50%;
+margin-left: 0;
+margin-right: auto; }
+
+nav { text-align: center; background-color: #2e2d8b 
+color: #fff400 ; }
+
+
+footer {
+font-size: .70em ; 
+font-style: italic; 
+text-align: center; 
+line-height: 300% ;}
+
+#wrapper { width: 80%;
+margin-right: auto;
+margin-left: auto; }
+
+
+
+.join { background-color: #2e2d8b ;
+color: #fff400 ; 
+width: 30% ;
+margin-left: 10px ;
+margin-right: auto ;
+text-align: left ;
+padding-top: 10px ;
+padding-left: 10px ;
+border: 2px solid #fff400 ; 
+line-height: 150% ; }
+
+.button {padding-left: 10px ; }
+
+.start { background-color: #2e2d8b ;
+color: #fff400 ;
+width: 3.5% ;
+margin-left: 10px ;
+padding-left: 10px ;
+border: 2px solid #fff400 ;  }
+
+.email { background-color: #2e2d8b ;
+color: #fff400 ; 
+width: auto ;
+margin-left: 10px ;
+margin-right: auto ;
+text-align: left ; }
+
+.provide { background-color: #2e2d8b ;
+color: #fff400 ; 
+width: auto ;
+margin-left: 10px ;
+margin-right: auto ;
+text-align: left ; }
+
+.year { background-color: #2e2d8b ;
+color: #fff400 ; 
+width: auto ;
+margin-left: 10px ;
+margin-right: auto ;
+text-align: left ; }
+
+.booth { background-color: #2e2d8b ;
+color: #fff400 ; 
+width: auto ;
+margin-left: 10px ;
+margin-right: auto ;
+text-align: left ; }
+
+.hometop { background-color: #2e2d8b ;
+color: #fff400 ; 
+width: 40% ;
+margin-left: 10px ;
+margin-right: auto ;
+text-align: left ;
+border: 2px solid #fff400 ;
+padding-top: 10px ;
+padding-left: 10px ;
+padding-right: 10px ; }
+
+.ourteam { background-color: #2e2d8b ;
+color: #fff400 ; 
+width: auto ;
+margin-left: 10px ;
+margin-right: auto ;
+text-align: left ; }
+
+.experience { background-color: #2e2d8b ;
+color: #fff400 ; 
+width: auto ;
+margin-left: 10px ;
+margin-right: auto ;
+text-align: left ; 
+padding-right: 10px ; }
+
+.events { background-color: #2e2d8b ;
+color: #fff400 ; 
+width: 75% ;
+margin-left: auto ;
+margin-right: auto ;
+text-align: left ;
+padding-top: 10px ;
+padding-left: 25px ;
+padding-bottom: 25px ; 
+padding-right: 25px ; }
+
+.host { background-color: #2e2d8b ;
+color: #fff400 ; 
+width: auto ;
+margin-left: 10px ;
+margin-right: auto ;
+text-align: left ; 
+padding-right: 10px ;
+padding-left: 10px ;}
+
+.local { background-color: #2e2d8b ;
+color: #fff400 ; 
+width: 30% ;
+margin-left: 10px ;
+margin-right: auto ;
+text-align: left ; }
+
+.subiefest { background-color: #2e2d8b ;
+color: #fff400 ; 
+width: 6.5% ;
+margin-left: 10px ;
+margin-right: auto ;
+text-align: left ; }
+
+.meet { background-color: #2e2d8b ;
+color: #fff400 ; 
+width: 30% ;
+margin-left: 10px ;
+margin-right: auto ;
+text-align: left ; }
+
+.competition { background-color: #2e2d8b ;
+color: #fff400 ; 
+width: 30% ;
+margin-left: 10px ;
+margin-right: auto ;
+text-align: center ; }
+
+.note { background-color: #2e2d8b ;
+color: #fff400 ; 
+width: 30% ;
+margin-left: 10px ;
+margin-right: auto ;
+text-align: left ; }
+
+.eventfooter { background-color: #2e2d8b ;
+color: #fff400 ;
+font-size: .70em ; 
+font-style: italic; 
+text-align: center; 
+line-height: 300% ;}
+
+.modifications { background-color: #2e2d8b ;
+color: #fff400 ; 
+width: 10% ; 
+margin-left: 10px ;
+padding-left: 10px ; 
+border: 2px solid #fff400 ; }
+
+.mods { background-color: #2e2d8b ;
+color: #fff400 ; 
+width: 70% ;
+margin-left: 10px ;
+margin-right: auto ;
+text-align: left ;
+padding-top: 10px ;
+padding-left: 10px ;
+border: 2px solid #fff400 ; }
+
+
+
+.stock { background-color: #2e2d8b ;
+color: #fff400 ; 
+width: 50% ;
+margin-left: 10px ;
+margin-right: auto ;
+text-align: left ; }
+
+.recommend { background-color: #2e2d8b ;
+color: #fff400 ; 
+width: auto ;
+margin-left: 10px ;
+margin-right: auto ;
+text-align: left ; }
+
+.modlist { background-color: #2e2d8b ;
+color: #fff400 ; 
+width: 55% ;
+margin-left: 10px ;
+margin-right: auto ;
+text-align: left ; }
+
+.about { background-color: #2e2d8b ;
+color: #fff400 ; 
+width: 50% ;
+margin-left: 10px ;
+margin-right: auto ;
+text-align: left ;
+padding-left: 10px ;
+line-height: 150% ;
+border: 2px solid #fff400 ; }
+
+.paul { background-color: #2e2d8b ;
+color: #fff400 ; 
+width: 50% ;
+margin-left: 10px ;
+margin-right: auto ;
+text-align: left ; }
+
+.exhaust { background-color: #2e2d8b ;
+color: #fff400 ; }
+
+.intake { background-color: #2e2d8b ;
+color: #fff400 ; }
+
+.exterior { background-color: #2e2d8b ;
+color: #fff400 ; }
+
+.tuning { background-color: #2e2d8b ;
+color: #fff400 ; }
+
+.exhaustex { background-color: #2e2d8b ;
+color: #fff400 ; 
+width: 50% ;
+margin-left: 10px ;
+margin-right: auto ;
+text-align: left ; }
+
+.intakeex { background-color: #2e2d8b ;
+color: #fff400 ; 
+width: 50% ;
+margin-left: 10px ;
+margin-right: auto ;
+text-align: left ; }
+
+.exteriorex { background-color: #2e2d8b ;
+color: #fff400 ; 
+width: 50% ;
+margin-left: 10px ;
+margin-right: auto ;
+text-align: left ; }
+
+.tuningex { background-color: #2e2d8b ;
+color: #fff400 ; 
+width: 50% ;
+margin-left: 10px ;
+margin-right: auto ;
+text-align: left ; }
+
+.div { -webkit-column-count: 2; /* Chrome, Safari, Opera */
+-webkit-column-gap: 5px /*Chrome*/
+
+}
+
+.pictures { padding-left: 110px ;
+padding-right: 120px ; 
+padding-top: 20px ; }
+
+.pictures1 { padding-left: 100px ;
+padding-right: 140px ;
+padding-top: 20px ; }
+
+.paulimg { padding-bottom: 15px ;
+padding-top: 15px ; 
+padding-right: 15px ;  }
+
+.aboutstyle { padding-left: 10px ; }
+
+.modspace { padding-right: 200px ; }
+
+.cobbspace { padding-right: 75px ; }
+
+
+
+
+
+
+
+
